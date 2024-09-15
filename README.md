@@ -6,7 +6,7 @@
    
 </head>
 <body>
-    <h1>Washing Machine Control System</h1>
+    <h1>Washing Machine Control System ⚙️</h1>
     <h2>Project Overview</h2>
     <p>This project designs a simple control system for a washing machine, with both manual and automatic modes. The system handles:</p>
     <ul>
